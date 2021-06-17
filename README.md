@@ -1,6 +1,6 @@
 # ride_sharing_app
 
-Ride sharing app
+Ride sharing app (rider part) Using Flutter, Google API, Firebase etc
 
 ## Getting Started
 
